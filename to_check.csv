@@ -1,228 +1,228 @@
-image_id,from Dataset;;;Visual inspection
-ISIC_0000049,./data/training/;;;
-ISIC_0000052,./data/training/;;;
-ISIC_0000055,./data/training/;;;
-ISIC_0000063,./data/training/;;;
-ISIC_0000160,./data/training/;;;Manually deleted
-ISIC_0000188,./data/training/;;;Manually deleted
-ISIC_0000189,./data/training/;;;
-ISIC_0000190,./data/training/;;;Manually deleted
-ISIC_0000202,./data/training/;;;
-ISIC_0000203,./data/training/;;;Manually deleted
-ISIC_0000205,./data/training/;;;
-ISIC_0000207,./data/training/;;;Manually deleted
-ISIC_0000208,./data/training/;;;Manually deleted
-ISIC_0000209,./data/training/;;;
-ISIC_0000215,./data/training/;;;Manually deleted
-ISIC_0000217,./data/training/;;;Manually deleted
-ISIC_0000224,./data/training/;;;Manually deleted
-ISIC_0000233,./data/training/;;;
-ISIC_0000235,./data/training/;;;Manually deleted
-ISIC_0000258,./data/training/;;;
-ISIC_0000259,./data/training/;;;Manually deleted
-ISIC_0000282,./data/training/;;;Manually deleted
-ISIC_0000285,./data/training/;;;Manually deleted
-ISIC_0000288,./data/training/;;;Manually deleted
-ISIC_0000289,./data/training/;;;Manually deleted
-ISIC_0000293,./data/training/;;;Manually deleted
-ISIC_0000294,./data/training/;;;Manually deleted
-ISIC_0000295,./data/training/;;;
-ISIC_0000299,./data/training/;;;Manually deleted
-ISIC_0000301,./data/training/;;;Manually deleted
-ISIC_0000302,./data/training/;;;Manually deleted
-ISIC_0000303,./data/training/;;;Manually deleted
-ISIC_0000307,./data/training/;;;Manually deleted
-ISIC_0000310,./data/training/;;;
-ISIC_0000321,./data/training/;;;
-ISIC_0000354,./data/training/;;;
-ISIC_0000368,./data/training/;;;
-ISIC_0000408,./data/training/;;;
-ISIC_0000426,./data/training/;;;
-ISIC_0000433,./data/training/;;;Manually deleted
-ISIC_0000478,./data/training/;;;
-ISIC_0000481,./data/training/;;;
-ISIC_0000485,./data/training/;;;
-ISIC_0000517,./data/training/;;;Manually deleted
-ISIC_0009896,./data/training/;;;Manually deleted
-ISIC_0009897,./data/training/;;;
-ISIC_0009962,./data/training/;;;
-ISIC_0010005,./data/training/;;;
-ISIC_0010022,./data/training/;;;
-ISIC_0010051,./data/training/;;;Manually deleted
-ISIC_0010057,./data/training/;;;Manually deleted
-ISIC_0010062,./data/training/;;;
-ISIC_0010063,./data/training/;;;Manually deleted
-ISIC_0010075,./data/training/;;;Manually deleted
-ISIC_0010093,./data/training/;;;Manually deleted
-ISIC_0010202,./data/training/;;;Manually deleted
-ISIC_0010213,./data/training/;;;
-ISIC_0010222,./data/training/;;;Manually deleted
-ISIC_0010231,./data/training/;;;
-ISIC_0010257,./data/training/;;;
-ISIC_0010267,./data/training/;;;Manually deleted
-ISIC_0010320,./data/training/;;;
-ISIC_0010329,./data/training/;;;Manually deleted
-ISIC_0010348,./data/training/;;;Manually deleted
-ISIC_0010382,./data/training/;;;Manually deleted
-ISIC_0010448,./data/training/;;;Manually deleted
-ISIC_0010455,./data/training/;;;
-ISIC_0010477,./data/training/;;;Manually deleted
-ISIC_0010492,./data/training/;;;Manually deleted
-ISIC_0010497,./data/training/;;;Manually deleted
-ISIC_0010588,./data/training/;;;Manually deleted
-ISIC_0010589,./data/training/;;;Manually deleted
-ISIC_0010596,./data/training/;;;
-ISIC_0010603,./data/training/;;;Manually deleted
-ISIC_0010847,./data/training/;;;Manually deleted
-ISIC_0010857,./data/training/;;;Manually deleted
-ISIC_0011079,./data/training/;;;
-ISIC_0011112,./data/training/;;;
-ISIC_0011121,./data/training/;;;Manually deleted
-ISIC_0011126,./data/training/;;;
-ISIC_0011158,./data/training/;;;Manually deleted
-ISIC_0011159,./data/training/;;;Manually deleted
-ISIC_0011167,./data/training/;;;Manually deleted
-ISIC_0011300,./data/training/;;;Manually deleted
-ISIC_0011322,./data/training/;;;Manually deleted
-ISIC_0011347,./data/training/;;;Manually deleted
-ISIC_0011361,./data/training/;;;Manually deleted
-ISIC_0011387,./data/training/;;;
-ISIC_0011402,./data/training/;;;Manually deleted
-ISIC_0012386,./data/training/;;;
-ISIC_0012749,./data/training/;;;Manually deleted
-ISIC_0012962,./data/training/;;;Manually deleted
-ISIC_0012999,./data/training/;;;Manually deleted
-ISIC_0013310,./data/training/;;;Manually deleted
-ISIC_0013584,./data/training/;;;Manually deleted
-ISIC_0013585,./data/training/;;;
-ISIC_0013685,./data/training/;;;Manually deleted
-ISIC_0013707,./data/training/;;;Manually deleted
-ISIC_0014076,./data/training/;;;
-ISIC_0014133,./data/training/;;;
-ISIC_0014189,./data/training/;;;Manually deleted
-ISIC_0014341,./data/training/;;;
-ISIC_0014365,./data/training/;;;Manually deleted
-ISIC_0014385,./data/training/;;;Manually deleted
-ISIC_0014581,./data/training/;;;Manually deleted
-ISIC_0014664,./data/training/;;;
-ISIC_0014714,./data/training/;;;
-ISIC_0014726,./data/training/;;;
-ISIC_0014735,./data/training/;;;
-ISIC_0014760,./data/training/;;;
-ISIC_0014762,./data/training/;;;Manually deleted
-ISIC_0014775,./data/training/;;;Manually deleted
-ISIC_0014791,./data/training/;;;
-ISIC_0014819,./data/training/;;;
-ISIC_0014922,./data/training/;;;
-ISIC_0014951,./data/training/;;;
-ISIC_0015038,./data/training/;;;
-ISIC_0015168,./data/training/;;;
-ISIC_0015220,./data/training/;;;Manually deleted
-ISIC_0015284,./data/training/;;;
-ISIC_0015295,./data/training/;;;
-ISIC_0009995,./data/validation/;;;Manually deleted
-ISIC_0010459,./data/validation/;;;Manually deleted
-ISIC_0012254,./data/validation/;;;Manually deleted
-ISIC_0013828,./data/validation/;;;
-ISIC_0014037,./data/validation/;;;Manually deleted
-ISIC_0014212,./data/validation/;;;Manually deleted
-ISIC_0014688,./data/validation/;;;Manually deleted
-ISIC_0014712,./data/validation/;;;Manually deleted
-ISIC_0014857,./data/validation/;;;Manually deleted
-ISIC_0014937,./data/validation/;;;Manually deleted
-ISIC_0014979,./data/validation/;;;Manually deleted
-ISIC_0014985,./data/validation/;;;Manually deleted
-ISIC_0015062,./data/validation/;;;Manually deleted
-ISIC_0015243,./data/validation/;;;
-ISIC_0015256,./data/validation/;;;Manually deleted
-ISIC_0015313,./data/validation/;;;
-ISIC_0015372,./data/validation/;;;Manually deleted
-ISIC_0015445,./data/validation/;;;Manually deleted
-ISIC_0012134,./data/test/;;;Manually deleted
-ISIC_0012136,./data/test/;;;Manually deleted
-ISIC_0012215,./data/test/;;;Manually deleted
-ISIC_0012240,./data/test/;;;Manually deleted
-ISIC_0012265,./data/test/;;;Manually deleted
-ISIC_0012356,./data/test/;;;Manually deleted
-ISIC_0012375,./data/test/;;;Manually deleted
-ISIC_0012414,./data/test/;;;Manually deleted
-ISIC_0012428,./data/test/;;;Manually deleted
-ISIC_0012510,./data/test/;;;Manually deleted
-ISIC_0012837,./data/test/;;;Manually deleted
-ISIC_0012848,./data/test/;;;Manually deleted
-ISIC_0013073,./data/test/;;;Manually deleted
-ISIC_0013169,./data/test/;;;Manually deleted
-ISIC_0013321,./data/test/;;;Manually deleted
-ISIC_0013473,./data/test/;;;Manually deleted
-ISIC_0013708,./data/test/;;;Manually deleted
-ISIC_0013813,./data/test/;;;Manually deleted
-ISIC_0013814,./data/test/;;;Manually deleted
-ISIC_0013833,./data/test/;;;Manually deleted
-ISIC_0014077,./data/test/;;;Manually deleted
-ISIC_0014506,./data/test/;;;Manually deleted
-ISIC_0014634,./data/test/;;;Manually deleted
-ISIC_0014653,./data/test/;;;Manually deleted
-ISIC_0014663,./data/test/;;;
-ISIC_0014666,./data/test/;;;Manually deleted
-ISIC_0014693,./data/test/;;;Manually deleted
-ISIC_0014703,./data/test/;;;Manually deleted
-ISIC_0014740,./data/test/;;;
-ISIC_0014746,./data/test/;;;
-ISIC_0014753,./data/test/;;;
-ISIC_0014766,./data/test/;;;Manually deleted
-ISIC_0014784,./data/test/;;;Manually deleted
-ISIC_0014787,./data/test/;;;Manually deleted
-ISIC_0014790,./data/test/;;;Manually deleted
-ISIC_0014807,./data/test/;;;
-ISIC_0014833,./data/test/;;;Manually deleted
-ISIC_0014868,./data/test/;;;
-ISIC_0014872,./data/test/;;;Manually deleted
-ISIC_0014883,./data/test/;;;
-ISIC_0014932,./data/test/;;;Manually deleted
-ISIC_0014948,./data/test/;;;Manually deleted
-ISIC_0014957,./data/test/;;;
-ISIC_0014961,./data/test/;;;Manually deleted
-ISIC_0014963,./data/test/;;;
-ISIC_0014973,./data/test/;;;
-ISIC_0014982,./data/test/;;;Manually deleted
-ISIC_0015002,./data/test/;;;
-ISIC_0015004,./data/test/;;;Manually deleted
-ISIC_0015008,./data/test/;;;Manually deleted
-ISIC_0015009,./data/test/;;;Manually deleted
-ISIC_0015011,./data/test/;;;Manually deleted
-ISIC_0015013,./data/test/;;;Manually deleted
-ISIC_0015019,./data/test/;;;
-ISIC_0015020,./data/test/;;;Manually deleted
-ISIC_0015031,./data/test/;;;Manually deleted
-ISIC_0015037,./data/test/;;;
-ISIC_0015064,./data/test/;;;
-ISIC_0015078,./data/test/;;;Manually deleted
-ISIC_0015089,./data/test/;;;Manually deleted
-ISIC_0015102,./data/test/;;;
-ISIC_0015118,./data/test/;;;Manually deleted
-ISIC_0015119,./data/test/;;;Manually deleted
-ISIC_0015142,./data/test/;;;Manually deleted
-ISIC_0015163,./data/test/;;;Manually deleted
-ISIC_0015167,./data/test/;;;
-ISIC_0015171,./data/test/;;;Manually deleted
-ISIC_0015176,./data/test/;;;Manually deleted
-ISIC_0015185,./data/test/;;;
-ISIC_0015203,./data/test/;;;Manually deleted
-ISIC_0015216,./data/test/;;;Manually deleted
-ISIC_0015224,./data/test/;;;Manually deleted
-ISIC_0015229,./data/test/;;;Manually deleted
-ISIC_0015237,./data/test/;;;
-ISIC_0015255,./data/test/;;;Manually deleted
-ISIC_0015258,./data/test/;;;Manually deleted
-ISIC_0015274,./data/test/;;;Manually deleted
-ISIC_0015311,./data/test/;;;
-ISIC_0015363,./data/test/;;;Manually deleted
-ISIC_0015390,./data/test/;;;Manually deleted
-ISIC_0015404,./data/test/;;;
-ISIC_0015416,./data/test/;;;Manually deleted
-ISIC_0015419,./data/test/;;;Manually deleted
-ISIC_0015447,./data/test/;;;Manually deleted
-ISIC_0015485,./data/test/;;;Manually deleted
-ISIC_0015537,./data/test/;;;Manually deleted
-ISIC_0015607,./data/test/;;;Manually deleted
-ISIC_0015636,./data/test/;;;Manually deleted
+image_id,from Dataset,Visual inspection
+ISIC_0000049,training,
+ISIC_0000052,training,
+ISIC_0000055,training,
+ISIC_0000063,training,
+ISIC_0000160,training,Ignore
+ISIC_0000188,training,Ignore
+ISIC_0000189,training,
+ISIC_0000190,training,Ignore
+ISIC_0000202,training,
+ISIC_0000203,training,Ignore
+ISIC_0000205,training,
+ISIC_0000207,training,Ignore
+ISIC_0000208,training,Ignore
+ISIC_0000209,training,
+ISIC_0000215,training,Ignore
+ISIC_0000217,training,Ignore
+ISIC_0000224,training,Ignore
+ISIC_0000233,training,
+ISIC_0000235,training,Ignore
+ISIC_0000258,training,
+ISIC_0000259,training,Ignore
+ISIC_0000282,training,Ignore
+ISIC_0000285,training,Ignore
+ISIC_0000288,training,Ignore
+ISIC_0000289,training,Ignore
+ISIC_0000293,training,Ignore
+ISIC_0000294,training,Ignore
+ISIC_0000295,training,
+ISIC_0000299,training,Ignore
+ISIC_0000301,training,Ignore
+ISIC_0000302,training,Ignore
+ISIC_0000303,training,Ignore
+ISIC_0000307,training,Ignore
+ISIC_0000310,training,
+ISIC_0000321,training,
+ISIC_0000354,training,
+ISIC_0000368,training,
+ISIC_0000408,training,
+ISIC_0000426,training,
+ISIC_0000433,training,Ignore
+ISIC_0000478,training,
+ISIC_0000481,training,
+ISIC_0000485,training,
+ISIC_0000517,training,Ignore
+ISIC_0009896,training,Ignore
+ISIC_0009897,training,
+ISIC_0009962,training,
+ISIC_0010005,training,
+ISIC_0010022,training,
+ISIC_0010051,training,Ignore
+ISIC_0010057,training,Ignore
+ISIC_0010062,training,
+ISIC_0010063,training,Ignore
+ISIC_0010075,training,Ignore
+ISIC_0010093,training,Ignore
+ISIC_0010202,training,Ignore
+ISIC_0010213,training,
+ISIC_0010222,training,Ignore
+ISIC_0010231,training,
+ISIC_0010257,training,
+ISIC_0010267,training,Ignore
+ISIC_0010320,training,
+ISIC_0010329,training,Ignore
+ISIC_0010348,training,Ignore
+ISIC_0010382,training,Ignore
+ISIC_0010448,training,Ignore
+ISIC_0010455,training,
+ISIC_0010477,training,Ignore
+ISIC_0010492,training,Ignore
+ISIC_0010497,training,Ignore
+ISIC_0010588,training,Ignore
+ISIC_0010589,training,Ignore
+ISIC_0010596,training,
+ISIC_0010603,training,Ignore
+ISIC_0010847,training,Ignore
+ISIC_0010857,training,Ignore
+ISIC_0011079,training,
+ISIC_0011112,training,
+ISIC_0011121,training,Ignore
+ISIC_0011126,training,
+ISIC_0011158,training,Ignore
+ISIC_0011159,training,Ignore
+ISIC_0011167,training,Ignore
+ISIC_0011300,training,Ignore
+ISIC_0011322,training,Ignore
+ISIC_0011347,training,Ignore
+ISIC_0011361,training,Ignore
+ISIC_0011387,training,
+ISIC_0011402,training,Ignore
+ISIC_0012386,training,
+ISIC_0012749,training,Ignore
+ISIC_0012962,training,Ignore
+ISIC_0012999,training,Ignore
+ISIC_0013310,training,Ignore
+ISIC_0013584,training,Ignore
+ISIC_0013585,training,
+ISIC_0013685,training,Ignore
+ISIC_0013707,training,Ignore
+ISIC_0014076,training,
+ISIC_0014133,training,
+ISIC_0014189,training,Ignore
+ISIC_0014341,training,
+ISIC_0014365,training,Ignore
+ISIC_0014385,training,Ignore
+ISIC_0014581,training,Ignore
+ISIC_0014664,training,
+ISIC_0014714,training,
+ISIC_0014726,training,
+ISIC_0014735,training,
+ISIC_0014760,training,
+ISIC_0014762,training,Ignore
+ISIC_0014775,training,Ignore
+ISIC_0014791,training,
+ISIC_0014819,training,
+ISIC_0014922,training,
+ISIC_0014951,training,
+ISIC_0015038,training,
+ISIC_0015168,training,
+ISIC_0015220,training,Ignore
+ISIC_0015284,training,
+ISIC_0015295,training,
+ISIC_0009995,validation,Ignore
+ISIC_0010459,validation,Ignore
+ISIC_0012254,validation,Ignore
+ISIC_0013828,validation,
+ISIC_0014037,validation,Ignore
+ISIC_0014212,validation,Ignore
+ISIC_0014688,validation,Ignore
+ISIC_0014712,validation,Ignore
+ISIC_0014857,validation,Ignore
+ISIC_0014937,validation,Ignore
+ISIC_0014979,validation,Ignore
+ISIC_0014985,validation,Ignore
+ISIC_0015062,validation,Ignore
+ISIC_0015243,validation,
+ISIC_0015256,validation,Ignore
+ISIC_0015313,validation,
+ISIC_0015372,validation,Ignore
+ISIC_0015445,validation,Ignore
+ISIC_0012134,test,Ignore
+ISIC_0012136,test,Ignore
+ISIC_0012215,test,Ignore
+ISIC_0012240,test,Ignore
+ISIC_0012265,test,Ignore
+ISIC_0012356,test,Ignore
+ISIC_0012375,test,Ignore
+ISIC_0012414,test,Ignore
+ISIC_0012428,test,Ignore
+ISIC_0012510,test,Ignore
+ISIC_0012837,test,Ignore
+ISIC_0012848,test,Ignore
+ISIC_0013073,test,Ignore
+ISIC_0013169,test,Ignore
+ISIC_0013321,test,Ignore
+ISIC_0013473,test,Ignore
+ISIC_0013708,test,Ignore
+ISIC_0013813,test,Ignore
+ISIC_0013814,test,Ignore
+ISIC_0013833,test,Ignore
+ISIC_0014077,test,Ignore
+ISIC_0014506,test,Ignore
+ISIC_0014634,test,Ignore
+ISIC_0014653,test,Ignore
+ISIC_0014663,test,
+ISIC_0014666,test,Ignore
+ISIC_0014693,test,Ignore
+ISIC_0014703,test,Ignore
+ISIC_0014740,test,
+ISIC_0014746,test,
+ISIC_0014753,test,
+ISIC_0014766,test,Ignore
+ISIC_0014784,test,Ignore
+ISIC_0014787,test,Ignore
+ISIC_0014790,test,Ignore
+ISIC_0014807,test,
+ISIC_0014833,test,Ignore
+ISIC_0014868,test,
+ISIC_0014872,test,Ignore
+ISIC_0014883,test,
+ISIC_0014932,test,Ignore
+ISIC_0014948,test,Ignore
+ISIC_0014957,test,
+ISIC_0014961,test,Ignore
+ISIC_0014963,test,
+ISIC_0014973,test,
+ISIC_0014982,test,Ignore
+ISIC_0015002,test,
+ISIC_0015004,test,Ignore
+ISIC_0015008,test,Ignore
+ISIC_0015009,test,Ignore
+ISIC_0015011,test,Ignore
+ISIC_0015013,test,Ignore
+ISIC_0015019,test,
+ISIC_0015020,test,Ignore
+ISIC_0015031,test,Ignore
+ISIC_0015037,test,
+ISIC_0015064,test,
+ISIC_0015078,test,Ignore
+ISIC_0015089,test,Ignore
+ISIC_0015102,test,
+ISIC_0015118,test,Ignore
+ISIC_0015119,test,Ignore
+ISIC_0015142,test,Ignore
+ISIC_0015163,test,Ignore
+ISIC_0015167,test,
+ISIC_0015171,test,Ignore
+ISIC_0015176,test,Ignore
+ISIC_0015185,test,
+ISIC_0015203,test,Ignore
+ISIC_0015216,test,Ignore
+ISIC_0015224,test,Ignore
+ISIC_0015229,test,Ignore
+ISIC_0015237,test,
+ISIC_0015255,test,Ignore
+ISIC_0015258,test,Ignore
+ISIC_0015274,test,Ignore
+ISIC_0015311,test,
+ISIC_0015363,test,Ignore
+ISIC_0015390,test,Ignore
+ISIC_0015404,test,
+ISIC_0015416,test,Ignore
+ISIC_0015419,test,Ignore
+ISIC_0015447,test,Ignore
+ISIC_0015485,test,Ignore
+ISIC_0015537,test,Ignore
+ISIC_0015607,test,Ignore
+ISIC_0015636,test,Ignore
