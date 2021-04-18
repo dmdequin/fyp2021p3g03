@@ -8,9 +8,9 @@ from skimage import morphology
 from skimage import measure
 import math
 
-TRAIN = './data/training/' 
-VALID = './data/validation/'
-TEST = './data/test/'
+TRAIN = '../data/training/' 
+VALID = '../data/validation/'
+TEST = '../data/test/'
 
 IMG = 'example_image/'
 SEG = 'example_segmentation/'
@@ -197,7 +197,7 @@ def __main__():
 	df['validation'] = {'path': VALID, 'label': pd.read_csv(VALID + TRUTH, index_col='image_id')}
 	df['test'] = {'path': TEST, 'label': pd.read_csv(TEST + TRUTH, index_col='image_id')}
 	
-	visual_inspection = pd.read_csv('./to_check.csv')
+	visual_inspection = pd.read_csv('../to_check.csv')
 	to_be_ignored = visual_inspection[visual_inspection.loc[:,'Visual inspection'] == 'Ignore']
 
 	for ix, row in to_be_ignored.iterrows():
@@ -245,7 +245,7 @@ def __main__():
 		            print(f'\rCalculating symmetry: {ptg:.2%}', end='\r')
 		            symmetry[ix] = test_symmetry(image)
 		            i += 1
-		            %xdel image
+
 		    else: print("OPERATION CANCELLED")
 
 		    if REWRITE.lower().startswith("y"):
