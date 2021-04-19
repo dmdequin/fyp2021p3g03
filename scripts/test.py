@@ -70,13 +70,14 @@ def test_symmetry(image, rot_deg=5):
 
     assert (rot_deg <= 90) and (rot_deg >= 0), "Rotation degree should be positive and at most 90 deg"
     optimal = 0
+    
+
 
     for deg in range(0,91, rot_deg):
         rot_image = skimage.transform.rotate(image, deg, resize=True)
         z = zoom(rot_image)
-        
+              
         upside, downside, leftside, rightside = cuts(z)
-
         up_dw = np.sum(np.bitwise_and(upside.astype(int), np.flipud(downside).astype(int))) /\
         np.sum(np.bitwise_or(upside.astype(int), np.flipud(downside).astype(int)))
 
@@ -85,9 +86,7 @@ def test_symmetry(image, rot_deg=5):
     
         symmetry = (up_dw+lt_rt)/2
         
-        if symmetry > optimal: optimal = symmetry
-
-    return symmetry
+        print(deg, symmetry)
     
 def rgb2gray(rgb):
     """Function to convert a RGB image to grayscale."""
@@ -197,149 +196,9 @@ def __main__():
 	df['validation'] = {'path': VALID, 'label': pd.read_csv(VALID + TRUTH, index_col='image_id')}
 	df['test'] = {'path': TEST, 'label': pd.read_csv(TEST + TRUTH, index_col='image_id')}
 	
-	visual_inspection = pd.read_csv('../to_check.csv')
-	to_be_ignored = visual_inspection[visual_inspection.loc[:,'Visual inspection'] == 'Ignore']
-
-	for ix, row in to_be_ignored.iterrows():
-	    try:
-	        image = row.loc['image_id']
-	        from_dataset = row.loc['from Dataset']
-	        df[from_dataset]['label'].drop(image, axis=0, inplace=True)
-	    except: pass
-	    
-	print(f'{to_be_ignored.shape[0]} images excluded from the model.')
-
-	execute = int(input("Which feature to execute: [1: Symmetry, 2: Compactness, 3: Color Deviation] "))
-
-	if execute == 1:
-		DATASET = input("Which dataset to calculate? [train, validation, test] ")
-		if DATASET.lower() not in ['train', 'validation', 'test']:
-		    print('OPERATION CANCELLED')
-		else:
-		    data = df[DATASET]['label']
-
-		    DoBatch = int(input("How many batches? "))
-		    if DoBatch > data.shape[0]:
-		        DoBatch = data.shape[0]
-		    batch = int(input("Do batch # "))
-		    assert batch <= DoBatch, "Wrong Batch #"
-
-		    WARN = input("This operation may take several minutes. Do you wish to continue: (Yes/No) ")
-
-		    REWRITE = input("Do you wish to overwrite the /symmetry.csv file?: (Yes/No) ")
-		    print("\n----- PLEASE BE PATIENT -----\n")
-
-
-		    length = data.shape[0] // DoBatch
-		    start = length * (batch - 1)
-		    end = length * (batch)
-
-		    if WARN.lower().startswith("y"):
-		        symmetry = {}
-		        i = 1
-		        for ix, row in data[start:end].iterrows():
-		            file_path = df[DATASET]['path'] + SEG + str(ix) + "_segmentation.png"
-		            image = plt.imread(file_path)
-
-		            ptg = round(i / length,2)
-		            print(f'\rCalculating symmetry: {ptg:.2%}', end='\r')
-		            symmetry[ix] = test_symmetry(image)
-		            i += 1
-
-		    else: print("OPERATION CANCELLED")
-
-		    if REWRITE.lower().startswith("y"):
-		        with open(df[DATASET]['path'] + FEAT + f'symmetry_{str(batch)}.csv', 'w') as outfile:
-		            outfile.write('image_id'+','+'symmetry'+'\n')
-		            for k, v in symmetry.items():
-		                line = k +','+str(v)
-		                outfile.write(line+'\n')
-
-	elif execute == 2:
-		DATASET = input("Which dataset to calculate? [train, validation, test] ")
-		if DATASET.lower() not in ['train', 'validation', 'test']:
-		    print('OPERATION CANCELLED')
-		else:
-		    data = df[DATASET]['label']
-
-		    DoBatch = int(input("How many batches? "))
-		    if DoBatch > data.shape[0]:
-		        DoBatch = data.shape[0]
-		    batch = int(input("Do batch # "))
-		    assert batch <= DoBatch, "Wrong Batch #"
-
-		    WARN = input("This operation may take several minutes. Do you wish to continue: (Yes/No) ")
-
-		    REWRITE = input("Do you wish to overwrite the /compactness.csv file?: (Yes/No) ")
-		    print("\n----- PLEASE BE PATIENT -----\n")
-
-
-		    length = data.shape[0] // DoBatch
-		    start = length * (batch - 1)
-		    end = length * (batch)
-
-		    if WARN.lower().startswith("y"):
-		        compactness = {}
-		        i = 1
-		        for ix, row in data[start:end].iterrows():
-		            file_path = df[DATASET]['path'] + SEG + str(ix) + "_segmentation.png"
-		            image = plt.imread(file_path)
-
-		            ptg = round(i / length,2)
-		            print(f'\rCalculating compactness: {ptg:.2%}', end='\r')
-		            area, per = measure_area_perimeter(image)
-		            compactness[ix] = (4* math.pi * area) / (per**2)
-		            i += 1
-		    else: print("OPERATION CANCELLED")
-
-		    if REWRITE.lower().startswith("y"):
-		        with open(df[DATASET]['path'] + FEAT + f'compactness_{str(batch)}.csv', 'w') as outfile:
-		            outfile.write('image_id'+','+'compactness'+'\n')
-		            for k, v in compactness.items():
-		                line = k +','+str(v)
-		                outfile.write(line+'\n')
-	elif execute == 3:
-		DATASET = input("Which dataset to calculate? [train, validation, test] ")
-		if DATASET.lower() not in ['train', 'validation', 'test']:
-		    print('OPERATION CANCELLED')
-		else:
-		    data = df[DATASET]['label']
-
-		    DoBatch = int(input("How many batches? "))
-		    if DoBatch > data.shape[0]:
-		        DoBatch = data.shape[0]
-		    batch = int(input("Do batch # "))
-		    assert batch <= DoBatch, "Wrong Batch #"
-
-		    WARN = input("This operation may take several minutes. Do you wish to continue: (Yes/No) ")
-
-		    REWRITE = input("Do you wish to overwrite the /color_deviation.csv file?: (Yes/No) ")
-		    print("\n----- PLEASE BE PATIENT -----\n")
-
-
-		    length = data.shape[0] // DoBatch
-		    start = length * (batch - 1)
-		    end = length * (batch)
-
-		    if WARN.lower().startswith("y"):
-		        color_deviation = {}
-		        i = 1
-		        for ix, row in data[start:end].iterrows():
-		            file_path = df[DATASET]['path'] + IMG + str(ix) + ".jpg"
-		            image = plt.imread(file_path)
-
-		            ptg = round(i / length,2)
-		            print(f'\rCalculating color deviation: {ptg:.2%}', end='\r') 
-		            color_deviation[ix] = color_std(image)
-		            i += 1
-		    else: print("OPERATION CANCELLED")
-
-		    if REWRITE.lower().startswith("y"):
-		        with open(df[DATASET]['path'] + FEAT + f'color_deviation{str(batch)}.csv', 'w') as outfile:
-		            outfile.write('image_id'+','+'color_deviation'+'\n')
-		            for k, v in color_deviation.items():
-		                line = k +','+str(v)
-		                outfile.write(line+'\n')
+	for img, row in df['train']['label'].iloc[:10,:].iterrows():
+		image = plt.imread(df['train']['path'] + SEG + img + "_segmentation.png")
+		test_symmetry(image)
 
 
 if __name__ == '__main__':
