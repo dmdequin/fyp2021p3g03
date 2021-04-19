@@ -64,15 +64,15 @@ def cuts(image):
     return upside, downside, leftside, rightside
 
 
-def test_symmetry(image, rot_deg=30):
+def test_symmetry(image, rot_deg=5):
     """Function to test the symmetry of an image. Takes a segmentation mask image and the rotation degree interval and
     returns a symmetry score between zero (non-symmetric) to one (completely symmetric)."""
 
     assert (rot_deg <= 90) and (rot_deg >= 0), "Rotation degree should be positive and at most 90 deg"
     optimal = 0
-    
+
     for deg in range(0,91, rot_deg):
-        rot_image = skimage.transform.rotate(image, deg)
+        rot_image = skimage.transform.rotate(image, deg, resize=True)
         z = zoom(rot_image)
         
         upside, downside, leftside, rightside = cuts(z)
