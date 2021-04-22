@@ -2,8 +2,9 @@
 def __main__():
 
 	outfile = open('symmetry.csv', 'w')
+	outfile.write("image_id,symmetry\n")
 	for i in range(1, 2):
-		infile = open(f'symmetry_{i}', 'r')
+		infile = open(f'symmetry_{i}.csv', 'r')
 		for line in infile.readlines()[1:]:
 			outfile.write(line)
 		infile.close()
@@ -14,8 +15,9 @@ def __main__():
 
 	n = []
 	for line in range(136):
-		n.append(file1.readline() == file2.readline())
-
+		 
+		n.append(file1.readline().split(',')[0] == file2.readline().split(',')[0])
+		#print(file1.readline().split(','),file2.readline().split(',')[0])
 	print(sum(n))
 	file1.close()
 	file2.close()
