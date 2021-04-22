@@ -3,7 +3,7 @@ def __main__():
 
 	outfile = open('symmetry.csv', 'w')
 	outfile.write("image_id,symmetry\n")
-	for i in range(1, 2):
+	for i in range(1, 5):
 		infile = open(f'symmetry_{i}.csv', 'r')
 		for line in infile.readlines()[1:]:
 			outfile.write(line)
@@ -14,7 +14,7 @@ def __main__():
 	file2 = open('symmetry.csv', 'r')
 
 	n = []
-	for line in range(136):
+	for line in range(533):
 		 
 		n.append(file1.readline().split(',')[0] == file2.readline().split(',')[0])
 		#print(file1.readline().split(','),file2.readline().split(',')[0])
