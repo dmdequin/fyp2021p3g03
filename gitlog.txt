@@ -1,0 +1,1068 @@
+commit ddaee609d260747383844165fe241dcc47901aa4
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 23:39:45 2021 +0200
+
+    Small mistake on text Notebook
+
+commit 584f2c48295c727e6ee81d4531ce2e0c21585873
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 23:29:58 2021 +0200
+
+    Notebook and figures updated
+
+commit ff936bfed6f87a4036434746d3cb5ed736acf579
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 23:20:33 2021 +0200
+
+    Final Notebook with updated symmetry values
+
+commit 165c29777671cd882611e1f8709d603dd8754a2d
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 23:17:58 2021 +0200
+
+    Symmetry-Train-6
+
+commit fe35ec400b4567303e6ff0981a590c304cbddbc7
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 22 22:28:49 2021 +0200
+
+    Update notebook.ipynb
+
+commit 7982c842899037b11307e022e5139d8e3d0a636d
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 21:46:13 2021 +0200
+
+    symmetry-test-3
+
+commit d338fea1b05bd7b09fa51098d97993df7f7f43c7
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Thu Apr 22 21:04:58 2021 +0200
+
+    Create symmetry_10.csv
+
+commit 7a94442b3c75f709b30df821a28a75bbd9ed83c5
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 21:02:20 2021 +0200
+
+    Moved to_check.csv to /data
+
+commit 5e791140af7a84d4f6889f045b2df1e7c72a78a9
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 20:17:29 2021 +0200
+
+    Validation double checked.
+
+commit b0089222894cdcd32a956e25a6ced3d463f77a8f
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 22 20:15:07 2021 +0200
+
+    Create symmetry_11.csv
+
+commit d49a12c975bb43c9add97331ec3997bfad85035c
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 20:12:48 2021 +0200
+
+    symmetry-test-3
+
+commit 0a63f1b06c82b99376dcd14250d7883521a0f909
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 22 19:28:02 2021 +0200
+
+    Create symmetry_4.csv
+
+commit eeb4d458840768d1a22c2a0dcf9e889e04a25495
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 22 17:23:55 2021 +0200
+
+    Create symmetry_3.csv
+
+commit 2e90386566005d20bf72ba7bbd655aad35e5542e
+Merge: 056112a 4aa339b
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 22 16:14:08 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 056112a85051fbe16c4cd780d29f1098ca3a3e02
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 22 16:14:05 2021 +0200
+
+    sym1&2
+
+commit 4aa339b15d43ef7251ba7220c38e370f4baa9efd
+Merge: aa71fd5 ea5f52e
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Thu Apr 22 16:14:01 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit aa71fd5aa89789d24e510c945b7387df0a45fdb8
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Thu Apr 22 16:13:53 2021 +0200
+
+    Create symmetry_1.csv
+
+commit ea5f52e1d0b4649f76dd1a9eb30154286baedf21
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 22 16:04:32 2021 +0200
+
+    Create symmetry_1.csv
+
+commit f31f873dd60bc78003ffc2c9d876de3a50a8bef4
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 22 14:51:41 2021 +0200
+
+    Create notebook_old.ipynb
+
+commit c10dd65074ff9a2b19ea79a2028d540e3604074a
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 22 14:51:35 2021 +0200
+
+    Update symmetry_old.csv
+
+commit f2f775c970192769b442e606ea878a39d08f102e
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 22 13:57:59 2021 +0200
+
+    error catching
+
+commit 6063b37e6e7308d1146242434c74c776d77a945a
+Author: gifa <gifa@itu.dk>
+Date:   Wed Apr 21 11:30:56 2021 +0200
+
+    symmetry recalculated with new resize option and 18 rotations
+
+commit a5328441d3c9d408532ed361f30bb1fe16aea740
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 20 21:17:58 2021 +0200
+
+    Replace Notebook
+
+commit 16b473764412d983b1980c6336c0b2e03f31a98e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 17:05:37 2021 +0200
+
+    added code for exporting plots to main notebook
+
+commit f185af25c9ccf260f6e1345becea41099892fc79
+Merge: e3dee90 de2556e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 16:53:09 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit e3dee904ec5076404afa87c8a90493924c0e9351
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 16:52:40 2021 +0200
+
+    density subplots added
+
+commit de2556ee8d5985284f84cc2821ac28f3fcbb2a7f
+Author: ccor <ccor@itu.dk>
+Date:   Tue Apr 20 16:28:12 2021 +0200
+
+    cleaned merge conflicts
+
+commit a72620df074e696f89c8b8d8e9df8030e791ea62
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 15:35:49 2021 +0200
+
+    add titles to confusion matrices, and save notebook with code to export figures
+
+commit eaa14f7d3b809b949ad92562cba055d1c2c92e5d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 15:32:17 2021 +0200
+
+    confusion matrix png files
+
+commit 8416669e433c70bb31c36c431adf5c0033f45657
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 15:29:24 2021 +0200
+
+    added density plot png files
+
+commit f2f173539d2b14b591bc79ed9f64fda7fbcff5d1
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Tue Apr 20 15:14:17 2021 +0200
+
+    Create features_scatter.png
+
+commit 5d096a4247c8107f1e8f991f48da16e883c57c66
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 20 14:03:18 2021 +0200
+
+    Improved KNN to select best recall on Melanoma
+
+commit 7dfb9883cd4865191065314d2b783561ee91cf3b
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 20 11:29:54 2021 +0200
+
+    A few images added to Notebook
+
+commit e7b9717407734c66520175c56fe3e25b9b2415c3
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 20 10:01:33 2021 +0200
+
+    Some cool Density plots and 3D Plot for All features
+
+commit 1af4ffeac1f79a8874ce2467c9d45f41475b2617
+Merge: bf00a2d 145de32
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 21:53:34 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit bf00a2d4c9a7ff8bb8b5d2117bb195eb0347eeea
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 21:52:32 2021 +0200
+
+    Improvement for scatterplots of features in Notebook Copy
+
+commit 145de3217b9fdec45e59e27554825263a2bac29b
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Mon Apr 19 20:23:37 2021 +0200
+
+    Update dee.ipynb
+
+commit d86136d42e1a1a372ffa5338c9e3e0fd0106e9f3
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 20:20:49 2021 +0200
+
+    Notebook copy
+
+commit 6d30d324f57d6928d0e91fe8fe025a4f7ca8735f
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 19:55:57 2021 +0200
+
+    Cleaned notebook
+
+commit a8edbfcdbe02de5ca754cb3111dffd3c91aa2e1e
+Merge: e7496ea d0bfc95
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 19:55:24 2021 +0200
+
+    Resolving conflict
+
+commit e7496ea672ed2731293c74758f4833ca79d13ea7
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 19:53:07 2021 +0200
+
+    Cleaned notebook
+
+commit d0bfc9545231076621f115a82f379c9438e3e256
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Mon Apr 19 18:53:25 2021 +0200
+
+    Update notebook.ipynb
+
+commit 0763758b757420445d2194216f65df01a7b9475b
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Mon Apr 19 18:53:19 2021 +0200
+
+    Create symmetry_25.csv
+
+commit aa069ea11b2c538080143fb4f62daae1efdc986f
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 17:32:09 2021 +0200
+
+    Notebook
+
+commit 233a86fafac274263b913f5319c8b23e9a41d810
+Merge: 33b7d93 126eb61
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 17:31:05 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 33b7d93a265e427bfc0d74832a3f2dee66d37405
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 17:27:06 2021 +0200
+
+    up
+
+commit 4b69f82d6416d0a680496942cc2a98403e73fd3b
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 17:23:12 2021 +0200
+
+    Changes uncommitted
+
+commit 126eb61a98ea54b0dae312b8d2da1261c47d439c
+Merge: d606f22 cbd3f8f
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Mon Apr 19 16:45:27 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit d606f221462245825041dcc16480502bff15c933
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Mon Apr 19 16:45:21 2021 +0200
+
+    Symmetry
+
+commit cbd3f8fdb89c45028cc4623c9628ac7f63297942
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 16:41:18 2021 +0200
+
+    Positive/Negative now defined
+
+commit 00e819b7f4bafb27b310d175a410f866d1606740
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 16:36:05 2021 +0200
+
+    last changes
+
+commit ae7af047cc24d4f8dd50e21122dd061cd04e4c42
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 11:02:19 2021 +0200
+
+    Attempt to fit K-Means. Not working.
+
+commit 660454d23ece30cc85e25ca435965683bc50876b
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 10:50:53 2021 +0200
+
+    SVM Model
+
+commit 160a46442709816819cdb90caf2181adedb2559b
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 10:37:00 2021 +0200
+
+    3-way split of data for model fitting
+
+commit 968b710d1ed6e99d32f39bb4684bf3cef856cd12
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 09:28:41 2021 +0200
+
+    Scaling of only Color Deviation to match other features range
+
+commit d29156034ebb45dd97ec199a8bf49eae0f9adcb6
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 19 09:05:41 2021 +0200
+
+    Correlation between features
+
+commit 1dd29df812bae3791e6303c12dbac4fcdf7755a9
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 22:32:45 2021 +0200
+
+    Try-out of KNN and DT without color variation
+
+commit 3dfb96a10ef2e1516b5655cccd025bba38e905a7
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 22:18:37 2021 +0200
+
+    Added mean to distribution plots of features
+
+commit f7b89f3d0489860be18a15ec533d9e6a0dc792dd
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 21:41:57 2021 +0200
+
+    Color deviation fixed for ignored images in test
+
+commit a2ba2f30064083debce013ef1c5ad60925df0c74
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 21:35:34 2021 +0200
+
+    Color Deviation fix for ignored images
+
+commit 8ea19cd97881351a3ae3b2324791028eeec81cea
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 21:21:57 2021 +0200
+
+    Fixed symmetry ignored in test
+
+commit 72845589aaa9f107e6c655427774b5f1b1724519
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 19:49:08 2021 +0200
+
+    Fixed Compactness without ignored in Test
+
+commit caaecadc00a5e91ac5aed11e109118c6d52e340e
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 19:32:45 2021 +0200
+
+    Fixed compactness now without ignored
+
+commit ad265707762202f77dd263f90ea9aab5bc8529d4
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 18:12:52 2021 +0200
+
+    Remove ignored images from symmetry
+
+commit c8e1e07692fb4355d872c97f6f5b5f0187693f1e
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 15:57:53 2021 +0200
+
+    Manually inspected images excluded from datasets
+
+commit 1cdc67d8fb8b22f55fe272e461e7f954598208fa
+Author: gifa <gifa@itu.dk>
+Date:   Sun Apr 18 15:45:27 2021 +0200
+
+    Small change in to_check.csv
+
+commit b13bfaa70bfee4de92b944bb37602e11a2957bdc
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 11:14:48 2021 +0200
+
+    Update notebook.ipynb
+
+commit a3f27d4fcf51b3bba99d7be00b5bbdedf662f200
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 11:06:59 2021 +0200
+
+    Update notebook.ipynb
+
+commit ea2f015184f69afa099d0d2ecc68e943208e132d
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:55:14 2021 +0200
+
+    update to exploratory section
+
+commit 8e5cc5e6d4ed56010160cededbcd4ffa620f4e95
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:49:53 2021 +0200
+
+    Update notebook.ipynb
+
+commit 32e6011f0f5000e9a38b5385a11749a7af1bd714
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:37:42 2021 +0200
+
+    Update notebook.ipynb
+
+commit 02d42c19787f2cd05d6aa63b4d94c8a1855957cd
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:33:58 2021 +0200
+
+    area and perimeter function output example
+
+commit 6ed9e0579f6186e77f3b67aec3ada64b58ee1aa0
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:27:19 2021 +0200
+
+    add rgb2gray function display
+
+commit 636a971788035ec69f27c93ce2a5f3fe5d909105
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 10:23:58 2021 +0200
+
+    more exploratory data analysis
+
+commit abc989a84b5bb247a5d5c1a77b8babff75d61fdd
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Sun Apr 18 09:56:30 2021 +0200
+
+    exploratory data analysis
+
+commit 5d30f37ceedd94598c64f765b812170b1f02b5f8
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 23:24:46 2021 +0200
+
+    Decision Tree model fit and tested
+
+commit 4b157d50396151392f84070dfd38fcb5079513d0
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 22:43:57 2021 +0200
+
+    KNN Model fit and running
+
+commit f57dbd796d281ca1a91ede3897bc50076ad4e681
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 22:21:52 2021 +0200
+
+    Added comments and a couple of tests on features
+
+commit 1a5e2f673b6bd8b6bfcfa024aae0d4132d2fc406
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 16:48:22 2021 +0200
+
+    Plotting distribbution of features
+
+commit 11ee2c2c8bb2b2041c6936b959a08e0be441df77
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 16:24:02 2021 +0200
+
+    Some feature analysis
+
+commit 8b57a425a2648dcc99be8516a47d34382c96dce7
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 17 15:52:45 2021 +0200
+
+    Fixed bug in compactness + Added color deviation
+
+commit 01fc0b162b02362ed43ed53bb5d20891b3a114a7
+Merge: 36c546a e6adc71
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 19:32:35 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 36c546ab4d37059a63cdb37c74b0dddc85798400
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 19:32:28 2021 +0200
+
+    Update dee.ipynb
+
+commit e6adc716da6e340db35936e597442f1100057b17
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 19:23:29 2021 +0200
+
+    Notebook update
+
+commit ffdd527b502ba041391a02aea0eab53d7dd09acc
+Merge: e6e18a8 4cb12b4
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 19:17:10 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit e6e18a81a5fa0396488120964ff90f895952d28b
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 19:17:07 2021 +0200
+
+    Inspection
+
+commit 4cb12b49ec25318e6c9fc62fa60ae5943e67b5d4
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 18:29:53 2021 +0200
+
+    Create dee.ipynb
+
+commit 4b93bf7012863e6e00cdb7b489cef2b0b4e0e007
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 18:26:19 2021 +0200
+
+    To check csv file
+
+commit d10120e1ab49f777affcaffb200f97a5c9f40b7e
+Merge: 212d85d 82fbcca
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 18:25:41 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 212d85d55a8c531fa46d641237cad6db458d3b57
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 18:24:56 2021 +0200
+
+    To check csv
+
+commit 82fbcca2c411c5f661b67ee19f903dce81b465dd
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 18:21:33 2021 +0200
+
+    Update notebook.ipynb
+
+commit 0f56d65f3fb9ef3042a93928f3f8ec3708f4a254
+Merge: c0a4877 2868386
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:20:13 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit c0a4877d3f36112d246447ad433182e92224e9ef
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:52 2021 +0200
+
+    Symmetries
+
+commit 25c00c840ab9608ea3f6fe60bd4a080a648fbadf
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:30 2021 +0200
+
+    Delete symmetry_4.csv
+
+commit 6e2941a477d7f526f3b6d1fc01caa49349204f1a
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:26 2021 +0200
+
+    Delete symmetry_3.csv
+
+commit f51595880eb285f2c8e3a3d7286e9f69cf77f559
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:22 2021 +0200
+
+    Delete symmetry_2.csv
+
+commit 80f5caa8887a003a8767e76a8697e6c6829783ea
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:18 2021 +0200
+
+    Delete symmetry_1.csv
+
+commit ea8b14989c7f509cded7a11adf9384ebc9fb0de5
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 18:19:15 2021 +0200
+
+    Create symmetry.csv
+
+commit 2868386064c6e1e6f85e3163f24a880dbf0b64e5
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 18:19:03 2021 +0200
+
+    Update notebook.ipynb
+
+commit c4d94fbdfb2b18861b935c7f477f52e2b0b08836
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 18:18:38 2021 +0200
+
+    Delete TOSEEnotebook.ipynb
+
+commit 370514d3773894fb93deddff3bf607f07ed4ef8c
+Merge: eec8f52 cf8bc8d
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 16 18:13:52 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit eec8f522f4045bc9668a585b37ce98d67a1a265c
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 16 18:11:14 2021 +0200
+
+    symmetry_3 for test data
+
+commit cf8bc8d1a3a645106639d0f6135731eb55052385
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 18:07:00 2021 +0200
+
+    More symmetry csv
+
+commit 79f864b4d71176da6a90508282c3b5764f2fbb04
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 17:45:13 2021 +0200
+
+    My bashes
+
+commit 0b2f6e150b58ccf6966c7607201fcc2aadbc3072
+Merge: 9fba22d 78338eb
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 17:42:56 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 9fba22d5e6e2709ea26ab7df4955689c6ceee468
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 17:42:41 2021 +0200
+
+    Create settings.json
+
+commit 87aaffcf4664eb9d012867b4947a33c0332eed2e
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 17:42:33 2021 +0200
+
+    Create symmetry_4.csv
+
+commit 5eba31ffd3b4099e13d592d93bbd71df6f8c5626
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 17:42:30 2021 +0200
+
+    Create symmetry_1.csv
+
+commit 1be25ed8228de871eea5b181021b4f4ecda7ae08
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 16 17:42:24 2021 +0200
+
+    Create symmetry_2.csv
+
+commit 78338eb550eee0f45768c1c26d408e702eb907bd
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 16 17:41:58 2021 +0200
+
+    Training and validation batch 3 (no test yet)
+
+commit eb35adf96c4a20dfe2395bc120bc5cf9c6824f0a
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 17:38:08 2021 +0200
+
+    Create symmetry_4.csv
+
+commit 2a115f455137e930d3708cb485fb1255c915edc3
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 16 17:22:54 2021 +0200
+
+    Create symmetry_4.csv
+
+commit a333b401be3f811e337c4777887080a41014662a
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 13:53:23 2021 +0200
+
+    Allow batch processing for feature extraction
+
+commit c15ead54329e99c9f5d04a14412900d964270ff0
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 16 12:30:38 2021 +0200
+
+    Added new data. Changed structure of repo. Analyze and tranform (size crop/reduction) of images. Notebook should be kept at main directory.
+
+commit ec9f67fa58c7db597391eb26bd8b69bcd10b49c2
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 11:31:54 2021 +0200
+
+    adding comments to functions
+
+commit ba1630a3198d3007284026c67815f0ca029f53d2
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 11:13:55 2021 +0200
+
+    Create augustnotebook.ipynb
+
+commit 54d3a82fa131b729459f76ac2f9fbba94f80e6fd
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 11:12:26 2021 +0200
+
+    moved notebook to notebooks directory
+
+commit 53582c8b38acb9a8a6cdc007829306359eafe1e4
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 11:11:28 2021 +0200
+
+    Update notebook.ipynb
+
+commit 4f3f10c4080cad30513232b22b56c94a64c8965c
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 10:52:50 2021 +0200
+
+    updating and cleaning up notebook
+
+commit 4d9c10f6760f26e8f787551a4285b65ed8f6042e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 15 10:39:31 2021 +0200
+
+    Updated Dee's Notebook
+
+commit 3ac5ba64efe877c9a987fc7110cc485f35575e3b
+Author: gifa <gifa@itu.dk>
+Date:   Wed Apr 14 19:27:20 2021 +0200
+
+    Segmentation function pulished. Compactness function created and tried. Perimeter function improved.
+
+commit 7778fb904af882faf6ee90b9993dac6cefdf049e
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Wed Apr 14 16:15:41 2021 +0200
+
+    Update example_ground_truth.csv
+
+commit 8f02ce0d3e3f7444a8f6a584e40ec3c0b5c2c1fc
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Wed Apr 14 16:06:31 2021 +0200
+
+    1853 new segmented images
+    
+    I tried to put the new folders in the data folder, but that was not possible. I think it has something to do with the .gitignore file. For now it's in data_additional
+
+commit 8ce8ece05327b9cd16d95386656e9a6243a8db39
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 13 14:06:02 2021 +0200
+
+    Insert some functions with documentation for main notebook
+
+commit df4908a36e30b6c372bd5c6e6f8b2b8d81d4b5ba
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 13 13:01:42 2021 +0200
+
+    Hand-in notebook skeleton
+
+commit 7e888edbcd1c8438f2f487a530795a199071012c
+Author: gifa <gifa@itu.dk>
+Date:   Tue Apr 13 08:52:09 2021 +0200
+
+    Check borders function
+
+commit 37c2f416c886eeb17d82438154f85686134d83e7
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 12 22:49:01 2021 +0200
+
+    Features saved to Dataframe, and to csv file
+
+commit 74997c567e7fc7d63613287e0964805562fd2461
+Author: ccor <ccor@itu.dk>
+Date:   Mon Apr 12 20:42:11 2021 +0200
+
+    Update P3 Sanna Working Notebook.ipynb
+
+commit 813b149cd6e6abe8f80754566840bd6846f51601
+Author: gifa <gifa@itu.dk>
+Date:   Mon Apr 12 13:18:34 2021 +0200
+
+    Attempt to describe color differences
+
+commit 5156ecc45101356707655779fde77912534c840a
+Author: ccor <ccor@itu.dk>
+Date:   Mon Apr 12 11:54:31 2021 +0200
+
+    Update P3 Sanna Working Notebook.ipynb
+
+commit 080b990dbc9ef8ff941b55972a2e091bb21ba86b
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 10 20:40:25 2021 +0200
+
+    Run symmetry test on all masks and write results into csv file
+
+commit 30ee783d2c0541b60419aa60314486328f121960
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 10 20:12:57 2021 +0200
+
+    Test symmetry with full (binary) circle
+
+commit f93d8e9745f6fcfa5b0d265c9917ec9a04fe2f9a
+Author: ccor <ccor@itu.dk>
+Date:   Sat Apr 10 13:42:26 2021 +0200
+
+    Comparing area/perimeter and trying to compare to circle
+
+commit e49a46e9bb0ab486e4ad523fe4e67bca37410a96
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 10 08:24:30 2021 +0200
+
+    Fix Symmetry function when image has uneven shape
+
+commit 87fe10a9ed8e6295460d8b185bb2d8bed8cfdc70
+Author: gifa <gifa@itu.dk>
+Date:   Sat Apr 10 07:53:52 2021 +0200
+
+    Deleting doubled notebook
+
+commit 22499f3e49d19b82ea875c5394fcd0fe27493470
+Author: ccor <ccor@itu.dk>
+Date:   Sat Apr 10 00:29:36 2021 +0200
+
+    looked at some features
+
+commit f404f6289690db2e109ac31cfad1f7f847a683e7
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 9 19:36:17 2021 +0200
+
+    Delete augustnotebook.ipynb
+
+commit f59adf1e578c561e39445a0aa9cc3f796f89255f
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 9 19:35:44 2021 +0200
+
+    Delete P3 August Working Notebook
+
+commit b4aa4fcd9c2a5a35d4666bd2c6d8f0373f8aaf08
+Merge: eb9e7ef 3dc30ef
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 19:00:56 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit eb9e7ef9379fbfcdf22edee25e58a939c6d3dfc0
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 19:00:35 2021 +0200
+
+    Symmetric function improvement
+
+commit 3dc30ef93495c470b46c2adf086ba3178ad6854c
+Author: ccor <ccor@itu.dk>
+Date:   Fri Apr 9 16:36:14 2021 +0200
+
+    Update P3 Sanna Working Notebook.ipynb
+
+commit a2d6f3831ee1a242c3960bf82d8ee9caffb77082
+Merge: 17b07b5 0bf470b
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 9 15:56:20 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 17b07b528a4b48bbc53e82c066963c99a55c66a6
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 9 15:56:18 2021 +0200
+
+    loading images side by side
+
+commit 0bf470b6e3dac5882cedfe583587b5993fd54b09
+Merge: 4783603 4dbb390
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 9 15:01:05 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 47836035ed45a554bcc2f2139e9843fa42719d60
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 9 15:00:51 2021 +0200
+
+    Create P3 Moneeca Working Notebook.ipynb
+
+commit 4dbb3908746a99ff81d8fe7c8000bd8240a2c3b8
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 14:59:56 2021 +0200
+
+    Symmetry function now includes rotation
+
+commit 071ac3ab0db2b7e3935ee2762f8e43eb48de2f38
+Merge: 0b0ae49 7f7298e
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 14:58:26 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit 0b0ae49421d93462ba7678823c834f8daa1b23fa
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 14:57:52 2021 +0200
+
+    Symmetry function now includes rotation
+
+commit 7f7298ed8543ac46013dcc6fd10f4385c32514ff
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 9 14:54:42 2021 +0200
+
+    Create augustnotebook.ipynb
+
+commit ede5c58452dd5078d9fb77d481b93e89bae5a915
+Author: Carl August Wismer <cwis@itu.dk>
+Date:   Fri Apr 9 14:42:46 2021 +0200
+
+    Create P3 August Working Notebook
+
+commit 3ac7e45c764bf778f4b43954e2272f56592ff2c9
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 9 11:58:57 2021 +0200
+
+    Dee's notebook. Running through basic tasks.
+
+commit 856e568eb717f3c3310be7fe5f13404ae60ffa27
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 10:36:14 2021 +0200
+
+    Fixed/Improved Symmetry function
+
+commit acede1df1d7802bf23295428bae050a3305172da
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 9 09:34:45 2021 +0200
+
+    First attempt at symmetry
+
+commit 0f40d8a51be792a0fbe0b6c1ffcc83bcb7bc8b29
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Thu Apr 8 11:56:42 2021 +0200
+
+    Added Dee's Notebook
+
+commit d8c5ebb88e9937d150086dadfbc61ddc1e0d770c
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Thu Apr 8 10:22:28 2021 +0200
+
+    Add files via upload
+
+commit 928e724e205fbaedd5fff1522c2b5ff644ce7170
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Thu Apr 8 10:21:51 2021 +0200
+
+    Add files via upload
+
+commit ee0482d4716780b4fd00579efaa6083b1dca827a
+Author: ccor <ccor@itu.dk>
+Date:   Thu Apr 8 10:04:18 2021 +0200
+
+    Sharing early work
+
+commit 88dfa003b95d5ae2e648c3fe94df4072337c6e47
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:44:30 2021 +0200
+
+    Add files via upload
+
+commit 5fff5f195ef9bf5a674bf16d354cd24b08d233b5
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:38:42 2021 +0200
+
+    Add files via upload
+
+commit f51d0c10eb2d67f3a82cf2c018bd07222db17890
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:36:30 2021 +0200
+
+    Add files via upload
+
+commit 2c716744b38ceb3dda051a53aaabd200d10376f6
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:33:00 2021 +0200
+
+    Create .gitkeep
+
+commit db47dd987edd7ad54a38633eefb342d15bcf487c
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:32:42 2021 +0200
+
+    Create .gitkeep
+
+commit 9e8496a41596c8a32e8574953e723d70cc3b299f
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:32:14 2021 +0200
+
+    Add files via upload
+
+commit fae8899d49d7ad226bc615ffbb93e9010553b760
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:30:53 2021 +0200
+
+    Add files via upload
+
+commit 352b1b90f48f616fbc5bb44169bbd4fbf9f3833d
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:29:08 2021 +0200
+
+    Add files via upload
+
+commit 80fa00b09e8ce2fb129e39323e8a60edc1d21d5c
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:28:26 2021 +0200
+
+    Create .gitkeep
+
+commit ba199c2d7f0570b906408e44a66e2f5da628fc24
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:10:17 2021 +0200
+
+    Create .gitkeep
+
+commit 1712c747f175d509631640fdea142d0485a5e11d
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:08:49 2021 +0200
+
+    Create .gitkeep
+
+commit 180305cacb82142487170188fd70a17b88df8891
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:07:20 2021 +0200
+
+    Create .gitkeep
+
+commit 37185ba350ae6aeffcb5e6df43a987fbe5f090e2
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:04:28 2021 +0200
+
+    Update README.md
+
+commit eabab09f6a647eb41ead17138e6a7b6e0770f901
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 21:02:09 2021 +0200
+
+    Update README.md
+
+commit 32c598b3043201816e6ea758d949cdded59f8877
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 20:48:59 2021 +0200
+
+    Create .gitkeep
+
+commit 90d47fc71b6cf89a075d74302b7292bc4d7c5bed
+Author: Danielle Marie Dequin <ddeq@itu.dk>
+Date:   Tue Apr 6 20:48:03 2021 +0200
+
+    Create .gitkeep
+
+commit 0cc7740cd2e35aed52370db4eb77c4c2c107dc45
+Author: Gino Franco Fazzi <gifa@itu.dk>
+Date:   Tue Apr 6 20:46:10 2021 +0200
+
+    Add files via upload
+
+commit 64b5d49283087cedb6fdcb075d4c5265642f9d57
+Author: Gino Franco Fazzi <gifa@itu.dk>
+Date:   Tue Apr 6 20:35:54 2021 +0200
+
+    Initial commit
