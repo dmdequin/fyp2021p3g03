@@ -87,7 +87,7 @@ def test_symmetry(image, rot_deg=5):
         
         if symmetry > optimal: optimal = symmetry
 
-    return symmetry
+    return optimal
     
 def rgb2gray(rgb):
     """Function to convert a RGB image to grayscale."""
@@ -208,7 +208,7 @@ def main():
     start = length * (batch - 1)
     end = length * (batch)
 
-    outfile = open("symmetry.csv", "w")
+    outfile = open(f'symmetry_{batch}.csv', "w")
 
     i = 1
     for ix, row in test[start:end].iterrows():
@@ -218,7 +218,7 @@ def main():
         ptg = round(i / length,2)
         print(f'\rCalculating symmetry: {ptg:.2%}', end='\r')
 
-        outfile.write(ix + "," + str(test_symmetry(image)) + "\n")
+        outfile.write(ix + "," + str(test_symmetry(image, 15)) + "\n")
         
         i += 1
 
