@@ -1,3 +1,46 @@
+commit 5b3a7fa4bf984945967dfeee9669a62bb2e93f4c
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 23 09:04:19 2021 +0200
+
+    Fully functioning notebook
+
+commit 069cc3e9003f1e41d00b44f9cb8d1d47e9121c97
+Merge: a7c05a5 29fc2f3
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 23 09:01:24 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/gifa/fyp2021p3g03
+
+commit a7c05a5fd39321cc8e92bc20e9cf8aa76d7c04ee
+Author: gifa <gifa@itu.dk>
+Date:   Fri Apr 23 08:56:24 2021 +0200
+
+    Functioning Notebook
+
+commit 29fc2f399e525e34da735dc167c9ba17c07e63b8
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 23 02:15:53 2021 +0200
+
+    Update notebook.ipynb
+
+commit f4a531d24086873dc816c2e8320deb6e4c10b174
+Author: Moneeca Abru Iftikhar Latif <abml@itu.dk>
+Date:   Fri Apr 23 02:15:50 2021 +0200
+
+    Create symmetry_12.csv
+
+commit 0596e9d1b6d291ec47f517df5f7bf6d37462af02
+Author: Danielle <62339718+dmdequin@users.noreply.github.com>
+Date:   Fri Apr 23 00:08:39 2021 +0200
+
+    Update report.pdf
+
+commit 3940ddc4f5c2b0589f39518760175c5123e8df10
+Author: gifa <gifa@itu.dk>
+Date:   Thu Apr 22 23:55:51 2021 +0200
+
+    report.pdf
+
 commit ddaee609d260747383844165fe241dcc47901aa4
 Author: gifa <gifa@itu.dk>
 Date:   Thu Apr 22 23:39:45 2021 +0200
